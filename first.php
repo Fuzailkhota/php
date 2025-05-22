@@ -1,5 +1,5 @@
 <?php
-echo"My Name Is Dhairya<br>"."I Study In SYBCA";
+echo"My Name Is Fuzail<br>"."I Study In SYBCA";
 
 print("<br>Navrachna University");
 ?>
